@@ -1,17 +1,23 @@
-**Netflix_Data_Report**
+# Netflix Data Report
 
-Welcome to the Netflix Data Report project! We have cleaned the Netflix dataset with SQL and are now ready to visualize it using Tableau.
-Our goal is to generate insights and report on the data in a clear and informative manner.
+Welcome to the Netflix Data Report project! In this project, we have cleaned the Netflix dataset using SQL and created a Tableau dashboard to visualize the data. Our objective is to provide insights and analysis on the Netflix dataset in a clear and informative manner.
 
-We have utilized the cleaned dataset, which can be found here, to generate a Tableau dashboard. 
-The dashboard will showcase visualizations that summarize the following aspects of the dataset:
+## Dataset
 
-    The number of movies and TV shows available on Netflix
-    The distribution of movies and TV shows by release year
-    The top 10 countries producing content on Netflix
-    The most common movie and TV show ratings
-    The top 10 genres on Netflix
+The dataset contains information about movies and TV shows available on Netflix, including details such as release year, country of production, ratings, and genres.
 
-We will be using Tableau to create interactive visualizations to better understand the data and to derive insights that can help us make informed decisions.
+## Tableau Dashboard
 
-Feel free to explore the dashboard, which can be found here, and gain valuable insights from the data.
+The Tableau dashboard we have created showcases various visualizations to summarize key aspects of the Netflix dataset. The following insights can be gained from the dashboard:
+
+- Number of movies and TV shows available on Netflix
+- Distribution of movies and TV shows by release year
+- Top 10 countries producing content on Netflix
+- Most common movie and TV show ratings
+- Top 10 genres on Netflix
+
+
+## Repository
+
+The project is available on GitHub under the project name [Netflix_Data_Report](https://github.com/Pranay62/Netflix_Data_Report). You can access the repository to view the Tableau dashboard, the SQL scripts used for data cleaning, and any additional resources or documentation related to the project.
+
